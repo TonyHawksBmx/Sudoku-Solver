@@ -1,1 +1,1 @@
-This Simple Program is to take a Sudoku input and Solve it.
+This Program takes a Sudoku input and Solves it.
